@@ -8,13 +8,13 @@
 ;;   the terms of this license.
 ;;   You must not remove this notice, or any others, from this software.
 
-(defproject com.7theta/specto "0.1.0"
+(defproject com.7theta/specto "0.1.1"
   :description "Supporting code for dropwizard metrics"
   :url "http://github.com/7theta/specto"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.7.0"]
-                 [metrics-clojure "2.6.0"]
+  :dependencies [[org.clojure/clojure "1.8.0"]
+                 [metrics-clojure "2.6.1"]
                  [com.stuartsierra/component "0.3.1"]]
   :profiles {:dev {:global-vars {*warn-on-reflection* true}
                    :dependencies [[org.clojure/tools.namespace "0.2.11"]
