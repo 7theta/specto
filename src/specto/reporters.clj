@@ -35,4 +35,4 @@
 
 (defn jmx-reporter
   ([] (jmx-reporter nil))
-  ([options] (JMXReporter. (or options {}))))
+  ([options] (JMXReporter. options)))
