@@ -1,14 +1,9 @@
 # com.7theta/specto
+[![Current Version](https://img.shields.io/clojars/v/com.7theta/specto.svg)](https://clojars.org/com.7theta/specto)
 
 Supporting code for the
 [dropwizard metrics](http://metrics.dropwizard.io/) library via
 [metrics-clojure](https://github.com/sjl/metrics-clojure).
-
-## Installation
-
-Via Clojars: http://clojars.org/com.7theta/specto
-
-[![Current Version](https://clojars.org/com.7theta/specto/latest-version.svg)](https://clojars.org/com.7theta/specto)
 
 ## Contributing
 
