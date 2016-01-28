@@ -1,5 +1,6 @@
 # com.7theta/specto
 [![Current Version](https://img.shields.io/clojars/v/com.7theta/specto.svg)](https://clojars.org/com.7theta/specto)
+[![Dependencies Status](https://jarkeeper.com/7theta/specto/status.svg)](https://jarkeeper.com/7theta/specto)
 
 Supporting code for the
 [dropwizard metrics](http://metrics.dropwizard.io/) library via
